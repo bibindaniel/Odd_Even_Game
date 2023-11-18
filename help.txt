@@ -1,0 +1,36 @@
+
+
+	Hello Buddy! I'm Odden, your friendly opponent in the game. 
+
+	Don't know or remember how to play this classic hand game? No worries, I got you covered! Now read carefully.
+
+	Odds and Evens is a traditional hand game which was & is quite popular among kids & teens. 
+	(DISCLAIMER: Doesn't mean adults can't play.)
+
+	The gameplay rules are quite simple.
+
+	You choose either Odds or Evens as your side. You can make the free choice. Odden will be satisfied with the other side! {^-^} 
+	[Shhh! There's Even an Easter Egg Hidden!]
+
+	As the game starts, you will start by entering a number from 0 to 9 first & Odden will then pick his number.
+
+	In case you have trust issues with Odden, do remember he's not yet that artificially intelligent to pick his number after seeing yours.
+	He will always pick random numbers. Silly Guy! {^-^}
+
+	Game would calculate sum of both your numbers instantly.
+
+	If the sum is even, Even Side gets the sum added to their score & if its odd, Odd Side gets the score.
+
+	This would go on until any of these 2 events happen: 
+	
+	 	- When you both pick same number, game ends and Side with highest score WINS!
+
+		- After 25 turns, whichever Side with highest score WINS!
+
+	In case scores are leveled, it's a DRAW!
+
+	As you know, it isn't a complex game. So HAPPY TIMEPASSING!
+
+		=========================================================
+			PRO TIP : USE NUMBERPAD FOR FASTER GAMEPLAY
+		=========================================================
